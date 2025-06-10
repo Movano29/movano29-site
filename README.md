@@ -109,3 +109,12 @@
   </div>
 </body>
 </html>
+<div style="text-align: center; font-family: Arial, sans-serif; margin-top: 30px;">
+  <h3>📬 Contactez-moi</h3>
+  <p>Je suis toujours disponible sur Facebook pour échanger, partager ou répondre à vos questions.</p>
+  <p>
+    👉 <a href="https://www.facebook.com/judicael.movano" target="_blank" style="color: #d6336c; font-weight: bold; text-decoration: none;">
+      Mon Facebook
+    </a>
+  </p>
+</div>
