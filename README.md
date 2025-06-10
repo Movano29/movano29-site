@@ -89,7 +89,7 @@
 </head>
 <body>
   <div class="container">
-    <h2>✨ Biographie de TOSSA Sessi Judicaël (Movano)</h2>
+    <h2>✨ Niveau d'études de TOSSA Sessi Judicaël (Movano)</h2>
     <p>Je prépare activement mon Baccalauréat pour la session 2025-2026, avec la volonté de réussir brillamment afin de poursuivre mes études supérieures et réaliser mes ambitions professionnelles.</p>
 
     <h3>💬 Retrouvez-moi sur :</h3>
