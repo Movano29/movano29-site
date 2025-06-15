@@ -117,4 +117,64 @@
       Mon Facebook
     </a>
   </p>
+
 </div>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Movano29 - Mon site</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 40px 20px;
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      display: flex;
+      justify-content: center;
+    }
+
+    .content {
+      width: 100%;
+      max-width: 900px;
+      background: white;
+      padding: 30px 40px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+      margin-top: 0;
+    }
+
+    p {
+      line-height: 1.5;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <!-- Ton contenu actuel à copier ici -->
+    <h1>Bienvenue sur Movano29</h1>
+    <p>Voici la présentation de mon site...</p>
+
+    <!-- Exemples : -->
+
+    <h2>À propos de moi</h2>
+    <p>Ici tu peux mettre ta bio, ta bibliographie, etc.</p>
+
+    <h2>Mes projets</h2>
+    <ul>
+      <li>Projet 1</li>
+      <li>Projet 2</li>
+    </ul>
+  </div>
+</body>
+</html>
