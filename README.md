@@ -112,3 +112,29 @@
   </div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon site avec Movano Ai</title>
+</head>
+<body>
+
+  <!-- Contenu du site ici -->
+
+  <!-- Script du chatbot -->
+  <script>
+    (function() {
+      var script = document.createElement('script');
+      script.dataset.bot = "6859e329f7f72129916f93fd";
+      script.dataset.zindex = "99999";
+      script.src = "https://panel.chatfuel.com/widgets/chat-widget/chat-widget.js";
+      script.async = true;
+      script.defer = true;
+      document.getElementsByTagName('head')[0].appendChild(script);
+    })()
+  </script>
+
+</body>
+</html>
